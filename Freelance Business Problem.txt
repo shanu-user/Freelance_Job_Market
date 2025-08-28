@@ -1,0 +1,129 @@
+Business Problem Statement:
+Freelancers struggle to identify and prepare for emerging market trends, resulting in missed opportunities and reduce competitiveness. They lack data-driven insights about which skills are in demand, what portfolio samples are most effective, and how to position themselves strategically in the job market
+
+Business Constraints:
+1. Limited access to real-time job market data across multiple-platforms
+2. Data from different freelance platforms may have different formats and structures
+3. Platform algorithms and policies may change, affecting trend analysis
+
+Business Objectives:
+
+1. Trend Identification: Identify emerging skills, technologies, and service demands in the freelance market
+2. Skill Gap Analysis: Determine which skills freelancers need to develop to meet market demands
+3. Client Preference Analysis: Identify what clients value most when selecting freelancers
+
+
+Business Success Criteria:
+
+Skill Demand Mapping: Accurately map which skills are growing vs declining in demand
+
+Geographic Coverage: Provide insights for at least 80% of major freelance markets globally
+
+
+The documents which I should prepare for data analysis project are:
+1. Project Charter
+2. Data Dictionary
+3. Reports
+4. Dashboard
+5. ETL Documentation
+6. Data Analysis Plan
+7. Project Architecture (Optional)
+
+
+Tech stack:
+1. Python
+2. SQL
+3. Power BI
+
+
+
+Visualizations to show in reports/dashboards:
+
+1.) Line Chart: For showing trends of skills over time
+2.) Clustered Bar/Column Chart: For showing rank of skills over time
+3.) Pie Chart: Shows market coverage of variety of skills (if necessary columns available)
+4. Scatter Plot: Show correlation between variables (if necessary columns are available)
+5. KPI(Need to check for necessary details to be mentioned)
+
+
+
+
+Choose Based on Data Type
+Categorical Data:
+Bar/Column charts
+Pie/Donut charts
+Tables
+Numerical Data:
+Line charts
+Scatter plots
+Histograms
+Time Series:
+Line charts
+Area charts
+Time series charts
+Geographic Data:
+Maps
+Bubble maps
+Filled maps
+Choose Based on Purpose
+Comparison:
+Bar/Column charts
+Scatter plots
+Tables
+Trends:
+Line charts
+Area charts
+Time series
+Distribution:
+Histograms
+Box plots
+Scatter plots
+Composition:
+Pie/Donut charts
+Stacked bar/column
+Treemap
+Common Dashboard Layouts
+Executive Dashboard
+Apply to Transcript.T...
+Analytical Dashboard
+Apply to Transcript.T...
+Operational Dashboard
+Apply to Transcript.T...
+Visual Design Tips
+Color Usage
+Use consistent color schemes
+Limit to 5-7 colors
+Use color for meaning, not decoration
+Consider colorblind accessibility
+Layout
+Group related visuals
+Use consistent spacing
+Align elements properly
+Leave white space
+Interactivity
+Add drill-down capabilities
+Include cross-filtering
+Use tooltips for details
+Enable sorting where appropriate
+Performance Considerations
+Data Volume
+Use aggregations for large datasets
+Limit data points in charts
+Use sampling for preview
+Optimize data model
+Refresh Frequency
+Real-time for operational dashboards
+Daily for analytical dashboards
+Weekly for strategic dashboards
+Custom Visuals
+Power BI also supports custom visuals from:
+Microsoft AppSource
+Community-developed visuals
+Custom-built visuals using Power BI Custom Visuals SDK
+Key Selection Criteria
+Data Type: What kind of data are you visualizing?
+Audience: Who will use the dashboard?
+Purpose: What insights do you want to convey?
+Interactivity: How much detail do users need?
+Performance: How much data are you working with?
+The key is to match the visual type to your data characteristics and the insights you want to communicate to your audience.
